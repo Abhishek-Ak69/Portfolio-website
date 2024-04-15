@@ -1,2 +1,4 @@
 # Portfolio-website
-This is a Django-based portfolio website that showcases projects and skills. The site features a clean and responsive design, and includes a blog section where i shared my thoughts and expertise. anyone one use this and improve further this site.
+This Django-based portfolio website showcases projects and skills with a clean and responsive design. Additionally, it includes a blog section where I share my thoughts and expertise. Feel free to explore and contribute to further improve the site!
+
+
